@@ -4,10 +4,10 @@
 	branch = master
 [submodule "conframes"]
 	path = conframes
-	url = git@bitbucket.org:toptensoftware/conframes.git
+	url = git@github.com:ahmed505/Sharp86.git
 	branch = master
 [submodule "ConFrames"]
 	path = ConFrames
-	url = git@bitbucket.org:toptensoftware/ConFrames.git
+	url = git@github.com:ahmed505/Sharp86.git
 	branch = master
 	
